@@ -56,7 +56,8 @@
 ### Name:TAMIZHSELVAN B
 ### Register Number: 212223230225
 
-![EMPD](https://github.com/user-attachments/assets/14e0a7c7-6e34-4790-bc80-f587dfb70927)
+![EMPD](https://github.com/user-attachments/assets/091659eb-15b4-42e2-b587-a779c853d16a)
+
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
